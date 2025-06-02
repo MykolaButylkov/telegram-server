@@ -1,0 +1,17 @@
+# node modules (не добавлять в Git)
+node_modules/
+
+# логи
+logs
+*.log
+
+# переменные окружения
+.env
+
+# кэш и системные файлы
+.DS_Store
+*.swp
+
+# IDE/OS
+.vscode/
+.idea/
